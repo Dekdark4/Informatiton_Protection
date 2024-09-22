@@ -1,0 +1,11 @@
+*.exe 
+*.obj
+*.dll
+
+*.log
+*.tmp
+*.vscode
+
+*.bin
+
+0
