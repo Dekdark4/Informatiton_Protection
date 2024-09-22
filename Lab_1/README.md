@@ -34,5 +34,6 @@
 - Для visual studio:
     достаточно закинуть все файлы в ide, при необходимости разбить их по папкам source / headers.
 - Для visual studio code (или при билде через mingw):
-    в терминале или консоли использовать команду, находясь в папке Lab_1: **g++ -I source_code/modules source_code/main.cpp source_code/modules/*.cpp -o main**.
+    в терминале или консоли использовать команду, находясь в папке Lab_1:
+    **g++ -I source_code/modules source_code/main.cpp source_code/modules/*.cpp -o main**
     Появившийся исполнительный файл (exe) можно открыть как обычно и пользоваться.
